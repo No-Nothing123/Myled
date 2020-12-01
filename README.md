@@ -5,7 +5,7 @@
     echo ２ > /dev/myled0　//LEDは"sos"のモールス信号”... --- ...”を表します。
 # 実行方法
     make
-    sudo insmod /myled0
+    sudo insmod myled.ko
     sudo chmod 666 /dev/myled0
     echo 1 > /dev/myled0 or echo ２ > /dev/myled0
   

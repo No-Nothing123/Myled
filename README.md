@@ -10,4 +10,4 @@
     echo 1 > /dev/myled0 or echo ２ > /dev/myled0
   
 # 動画
-        https://youtu.be/7RyjCD5kYOM
+https://youtu.be/7RyjCD5kYOM

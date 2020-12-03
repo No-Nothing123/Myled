@@ -1,5 +1,5 @@
 # ロボットシステム学　課題１
-第７、８回のmyled.cにオリジナリティの改造をして、Githubに置く。
+第７、８回のmyled.cをオリジナリティの改造をして、Githubに置く。
 # 動作環境
     Raspberry Pi 4 x 1
      OS: Ubuntu 20.04.1 LTS
